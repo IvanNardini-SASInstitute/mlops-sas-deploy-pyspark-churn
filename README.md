@@ -1,7 +1,7 @@
 # Orchestate Spark Analytical enviroment with SAS Workflow Manager
 
 
-<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/workflow/workflow.png">
+<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/spark_governance.png">
 
 
 ## Covered functionality
@@ -16,7 +16,7 @@ All this is possible thanks to Model Manager and WorkFlow capabilities.
 
 Below the **high-level architecture of the solution**: 
 
-<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/spark_governance.png">
+<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/solution_architecture.png">
 
 ## Requirements
 
@@ -51,7 +51,7 @@ And because the demo, we assumed that the model underperforms
 
 Below the **HadoopLivy** workflow we build
 
-<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/workflow/workflow.png">
+<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/2_workflow/workflow.png">
 
 ## Contributions
 
