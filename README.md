@@ -1,7 +1,7 @@
 # Orchestate Spark Analytical enviroment with SAS Workflow Manager
 
 
-<img src="https://gitlab.sas.com/partners-in-oss-integration-on-viya/integrating-spark-via-pmml/raw/master/spark_governance.png">
+<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/workflow/workflow.png">
 
 
 ## Covered functionality
@@ -16,7 +16,7 @@ All this is possible thanks to Model Manager and WorkFlow capabilities.
 
 Below the **high-level architecture of the solution**: 
 
-<img src="https://gitlab.sas.com/partners-in-oss-integration-on-viya/integrating-spark-via-pmml/raw/master/solution_architecture.png">
+<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/solution_architecture.png">
 
 ## Requirements
 
@@ -35,11 +35,7 @@ To get instructions a production **Hadoop-Spark environment** with **Apache Livy
 
 ## Usage 
 
-In the **presentation** folder, you can find the customer deck.
-
-And [here](https://sasoffice365-my.sharepoint.com/:v:/g/personal/ivan_nardini_sas_com/EYfKjMDdOidOvHIYZezISKgBnJv1Hnod3HRmeRgWvLUEbA?e=NYQdyO) you can find the video of the demo.
-
-By the way, you can run **SASViya_OSIntgr_SparkMlib_Deployment_final.ipynb** for: 
+You can run **SASViya_OSIntgr_SparkMlib_Deployment_final.ipynb** for: 
 
 1. train a LogisticRegression model using Pyspark MLib library
 2. register the MetaData of the Model in SAS Model Manager
@@ -55,11 +51,10 @@ And because the demo, we assumed that the model underperforms
 
 Below the **HadoopLivy** workflow we build
 
-<img src="https://gitlab.sas.com/partners-in-oss-integration-on-viya/integrating-spark-via-pmml/raw/master/workflow/workflow.png">
+<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/workflow/workflow.png">
 
 ## Contributions
 
 Test it. And please provide us feedback for improvements. Pull requests are welcome as well.
 
-And feel free to reach us at [Ivan Nardini](ivan.nardini@sas.com ), [Artem Glazkov](Artem.Glazkov@sas.com) and [Matteo Landrò](matteo.landro@sas.com) for any clarification 
-or if you would like to join in this SASers enthusiastic about OSS group
+And feel free to reach us at [Ivan Nardini](ivan.nardini@sas.com ), [Artem Glazkov](Artem.Glazkov@sas.com) and [Matteo Landrò](matteo.landro@sas.com) for any clarification
