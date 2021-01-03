@@ -1,7 +1,7 @@
 # Orchestate Spark Analytical enviroment with SAS Workflow Manager
 
 
-<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/spark_governance.png">
+<img src="https://github.com/IvanNardini-SASInstitute/mlops-sas-deploy-pyspark-churn/raw/master/spark_governance.png">
 
 
 ## Covered functionality
@@ -16,7 +16,7 @@ All this is possible thanks to Model Manager and WorkFlow capabilities.
 
 Below the **high-level architecture of the solution**: 
 
-<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/solution_architecture.png">
+<img src="https://github.com/IvanNardini-SASInstitute/mlops-sas-deploy-pyspark-churn/master/solution_architecture.png">
 
 ## Requirements
 
