@@ -16,7 +16,7 @@ All this is possible thanks to Model Manager and WorkFlow capabilities.
 
 Below the **high-level architecture of the solution**: 
 
-<img src="https://github.com/IvanNardini-SASInstitute/mlops-sas-deploy-pyspark-churn/master/solution_architecture.png">
+<img src="https://github.com/IvanNardini-SASInstitute/mlops-sas-deploy-pyspark-churn/raw/master/solution_architecture.png">
 
 ## Requirements
 
