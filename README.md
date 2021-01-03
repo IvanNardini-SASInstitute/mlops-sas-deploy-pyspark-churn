@@ -51,7 +51,7 @@ And because the demo, we assumed that the model underperforms
 
 Below the **HadoopLivy** workflow we build
 
-<img src="https://github.com/IvanNardini/Orchestrate-Spark-in-SAS-Viya/raw/master/2_workflow/workflow.png">
+<img src="https://github.com/IvanNardini-SASInstitute/mlops-sas-deploy-pyspark-churn/raw/master/2_workflow/workflow.png">
 
 ## Contributions
 
