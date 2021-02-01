@@ -98,8 +98,8 @@ class Core:
         self.protocol = 'http'
         self.server ='rusretailviya.rus.sas.com'
         self.authUri = '/SASLogon/oauth/token'
-        self.user = 'sasdemo'
-        self.password ='Orion123'
+        self.user = 'user'
+        self.password ='password'
         self.modelId = '3c3e2fa3-bbd3-4cf7-aa93-834b6c953bb3'
 
         r = requests.post(
